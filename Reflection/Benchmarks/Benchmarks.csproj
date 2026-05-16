@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FindingTypes.ExtraTypes\FindingTypes.ExtraTypes.csproj" />
+    <ProjectReference Include="..\SharedTypes\SharedTypes.csproj" />
   </ItemGroup>
 
 </Project>

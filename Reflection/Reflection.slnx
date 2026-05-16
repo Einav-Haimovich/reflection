@@ -1,8 +1,10 @@
 <Solution>
-  <Project Path="Attributes.ConsoleApp/Attributes.ConsoleApp.csproj" />
-  <Project Path="FindingTypes.ConsoleApp/FindingTypes.ConsoleApp.csproj" />
-  <Project Path="FindingTypes.ExtraTypes/FindingTypes.ExtraTypes.csproj" />
-  <Project Path="Generics.ConsoleApp/Generics.ConsoleApp.csproj" />
-  <Project Path="MemberInformation.ConsoleApp/MemberInformation.ConsoleApp.csproj" />
-  <Project Path="WhatIsReflection.ConsoleApp/WhatIsReflection.ConsoleApp.csproj" />
+  <Project Path="Attributes/Attributes.csproj" />
+  <Project Path="Benchmarks/Benchmarks.csproj" />
+  <Project Path="FindingTypes/FindingTypes.csproj" />
+  <Project Path="SharedTypes/SharedTypes.csproj" />
+  <Project Path="Generics/Generics.csproj" />
+  <Project Path="MemberInformation/MemberInformation.csproj" />
+  <Project Path="UnsafeAccessor/UnsafeAccessor.csproj" />
+  <Project Path="WhatIsReflection/WhatIsReflection.csproj" />
 </Solution>
