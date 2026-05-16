@@ -91,5 +91,12 @@ reflection/
 ├── Generics/           open/closed generics and MakeGenericMethod
 ├── Benchmarks/         BenchmarkDotNet performance comparisons
 ├── UnsafeAccessor/     zero-cost private member access
-└── SharedTypes/        support library used by FindingTypes and Benchmarks
+├── SharedTypes/        support library used by FindingTypes and Benchmarks
+└── certificate/        course completion certificate
 ```
+
+---
+
+Thanks to Nick Chapsas for the course — [From Zero to Hero: Reflection in .NET](https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/).
+
+[Certificate of completion](certificate/Reflection%20In%20Dotnet%20-%20Einav%20Haimovich.pdf)
